@@ -1,0 +1,150 @@
+*{
+    margin: 0px;
+    padding:0px;
+    padding-bottom: 10px;
+    overflow-x:hidden; 
+}
+.parent-div {
+    font-family: sans-serif;
+    padding-bottom: 30%;
+    width:100%;
+    height: auto;
+    background-color:black;
+}
+.right-div{
+    width: 100%;
+    font-size:xxx-large;
+  font-family: sans-serif; 
+    padding-top: 90px;
+    float: right;
+    width:50%;    
+}
+
+.image{
+    padding-top: 5%;
+    text-align-last: left;
+    float: right;
+    width: 35%;
+    
+}
+.a{
+    
+    padding-top: 70px;
+    float:right;
+    width: 80%;
+    font-size:x-large;
+    font-family:sans-serif;    
+    padding-bottom: 20px;
+}
+.button{
+  
+    width: 40%;
+    border: 0;
+  color:black;
+  padding: 14px 31px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 15px;
+  font-family: sans-serif;
+  margin: 1px 3px;
+  cursor: pointer;
+}
+.buttona{
+width: 40%;
+    border: 0;
+  color:white;
+  background-color:rgb(207, 8, 8);
+  padding: 14px 31px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 15px;
+  font-family: sans-serif;
+  margin: 1px 3px;
+  cursor: pointer;
+}
+.buttonb{
+    
+    width: 40%;
+    border: 0;
+  color:black;
+  background-color:darkorange;
+  padding: 14px 31px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 15px;
+  font-family: sans-serif;
+  margin: 1px 3px;
+  cursor: pointer;
+}
+.b{
+    font-family: sans-serif;
+    padding-top: 50px;
+    width:100%;
+    height: auto;
+    font-size: 24px;
+    background-color:black;
+    padding-bottom: 50px;
+  }
+  .c{
+    background-color: white;
+    width: 250px;
+    border: 1px solid gray;
+    padding: 35px;
+   margin: 20px;
+   border-radius: 5px;
+  }
+  .d{
+    
+    background-color: white;
+    width: 250px;
+    border: 1px solid gray;
+    padding: 35px;
+   margin: 20px;
+   border-radius: 5px;
+   
+  }
+  .e{
+    
+    background-color: white;
+    width: 250px;
+    border: 1px solid gray;
+    padding: 35px;
+   margin: 20px;
+   border-radius: 5px;
+   
+  }
+  .f{
+    
+    background-color: white;
+    width: 250px;
+    border: 1px solid gray;
+    padding: 35px;
+   margin: 20px;
+   border-radius: 5px;
+   
+  }
+  .ul{
+    list-style-type: disc;
+padding: 10px;
+  }
+  .ul1{
+  
+    list-style-type: disc;
+    padding: 10px;
+    float: right;
+    width:45%
+    
+  }
+  .g{
+    font-family: sans-serif;
+    padding-top: 70px;
+    width:100%;
+    height: auto;
+    background-color:black;
+    padding-bottom: 60px;
+    padding-left: 40px;
+   
+  }
